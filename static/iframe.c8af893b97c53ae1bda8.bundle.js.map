@@ -1,0 +1,1 @@
+{"version":3,"file":"static/iframe.c8af893b97c53ae1bda8.bundle.js","sources":["webpack:///./src/components/BorUiTable/BorUiTableHeadCell.js"],"sourcesContent":["import React from 'react';\r\n\r\nconst BorUiTableHead = ({ label }) => <th>{label}</th>;\r\n\r\nexport default BorUiTableHead;\r\n"],"mappings":"AAAA","sourceRoot":""}
